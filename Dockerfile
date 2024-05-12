@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 8003
 
 # Command to run the analytics service
-CMD [ "npm", "run" ]
+CMD [ "npm", "start" ]
